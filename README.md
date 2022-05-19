@@ -1,4 +1,4 @@
-# desarrolloSoftware
+# Desarrollo de Software 2
 
 ## Carlos Jimenez 1105749
 
