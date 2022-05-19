@@ -1,0 +1,17 @@
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\bin\Debug\net6.0-windows\Deducciones-Intec.exe
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\bin\Debug\net6.0-windows\Deducciones-Intec.deps.json
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\bin\Debug\net6.0-windows\Deducciones-Intec.runtimeconfig.json
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\bin\Debug\net6.0-windows\Deducciones-Intec.dll
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\bin\Debug\net6.0-windows\Deducciones-Intec.pdb
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.dll
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\refint\Deducciones-Intec.dll
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.pdb
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones-Intec.genruntimeconfig.cache
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\ref\Deducciones-Intec.dll
+C:\Users\carlo\source\repos\Deducciones-Intec\Deducciones-Intec\obj\Debug\net6.0-windows\Deducciones_Intec.Deducciones.resources
