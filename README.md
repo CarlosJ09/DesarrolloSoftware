@@ -2,7 +2,7 @@
 
 ## Carlos Jimenez 1105749
 
-### Repositorio con todas las tareas de desarrollo de software 2.
+### Repositorio con todas las asignaciones de  la materia Desarrollo de Software 2.
 
 ## Tareas Realizadas:
 
