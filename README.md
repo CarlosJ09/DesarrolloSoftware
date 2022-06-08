@@ -7,3 +7,4 @@
 ## Tareas Realizadas:
 
 - Deducciones
+- Clinica
