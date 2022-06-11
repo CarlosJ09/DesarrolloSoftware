@@ -8,3 +8,4 @@
 
 - Deducciones
 - Clinica
+- BarberShop (Con conexion SQL)
