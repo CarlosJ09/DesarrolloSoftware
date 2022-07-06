@@ -1,0 +1,114 @@
+﻿@model IEnumerable<ECommerce.Product>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="container-fluid">
+    <div class="container-fluid">
+        <h1 class="text-center">Productos</h1>
+        <div class="container">
+            <table class="table">
+                <tr class="text-center">
+                    <th>
+                        @Html.DisplayNameFor(model => model.Picture)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ListPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Description)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Enabled)
+                    </th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Picture)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ListPrice)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </td>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Enabled)
+                        </th>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</section>
+
+<section class="container-fluid">
+    <div class="container-fluid">
+        <h1 class="text-center">Ofertas</h1>
+    </div>
+    <div class="container">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Picture)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ListPrice)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OfferPrice)
+                </th>-
+                <th>
+                    @Html.DisplayNameFor(model => model.Enabled)
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Picture)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ListPrice)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <th>
+                        @Html.DisplayNameFor(model => model.OfferPrice)
+                    </th>-
+                    <th>
+                        @Html.DisplayNameFor(model => model.Enabled)
+                    </th>
+                </tr>
+            }
+        </table>
+    </div>
+</section>
+<section class="container-fluid">
+    <div class="container-fluid">
+        <h1 class="text-center">Comentarios de nuestros Clientes</h1>
+      
+    </div>
+</section>
+
